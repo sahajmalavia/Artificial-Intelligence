@@ -1,7 +1,6 @@
 # Artificial Intelligence Projects
 
-## Contributors
-These projects were collaboratively developed as part of **CSC384: Introduction to Artificial Intelligence**, offered at the University of Toronto.
+These projects were developed as part of **CSC384: Introduction to Artificial Intelligence**, offered at the University of Toronto.
 
 ## Overview
 This repository contains implementations of various artificial intelligence (AI) algorithms and solutions for classic problem-solving tasks, showcasing concepts such as search algorithms, probabilistic reasoning, and game-playing strategies. The projects include:
